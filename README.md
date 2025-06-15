@@ -24,6 +24,5 @@ GOOGLE_API_KEY="your_google_key"
 HUGGINGFACEHUB_API_KEY="your_huggingfacehub_key"
 ```
 
-## Dont have closed-source API key ?
-
-Refer to the repo Models_in_LangChain for using open-sourced Hugging Face chat models (via API or locally).
+### Dont have closed-source API key ? 
+Refer to the repo [**Models_in_LangChain**](https://github.com/yourusername/Models_in_LangChain) for using open-sourced Hugging Face chat models (via API or locally).
